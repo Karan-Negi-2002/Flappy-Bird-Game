@@ -18,5 +18,5 @@ This is a simple Flappy Bird clone implemented using Java Swing. The game featur
 
 ## Screenshots
 
-![Image](https://github.com/user-attachments/assets/102b785c-7aeb-4602-a1f0-e88479d87341)
 ![Image](https://github.com/user-attachments/assets/3961ec96-9171-49c7-b998-518ddd96fc23)
+![Image](https://github.com/user-attachments/assets/102b785c-7aeb-4602-a1f0-e88479d87341)
